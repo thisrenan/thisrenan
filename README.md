@@ -1,4 +1,17 @@
-## Hi there 👋
+## Olá 👋
+
+Portugol:
+
+[Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para uma competição de desenvolvimento de jogos em linguagem portugol, contendo o tema dengue.
+
+
+
+
+
+
+
+🌱 Atualmente aprofundando meus conhecimentos em Golang.
+
 
 <!--
 **thisrenan/thisrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
