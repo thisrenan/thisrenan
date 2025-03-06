@@ -4,8 +4,13 @@ Portugol:
 
 [Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para uma competição de desenvolvimento de jogos em linguagem portugol, contendo o tema dengue.
 
+C++:
 
+[Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
+[Jogo da Velha em variáveis](https://github.com/thisrenan/TicTacToeConsoleCpp): Jogo da velha utilizando apenas variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
+[Lista de exercícios 1](https://github.com/thisrenan/FirstLegPracticeCpp): Lista de exercícios de manipulação de variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
 
 
