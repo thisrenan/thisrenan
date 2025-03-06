@@ -1,10 +1,10 @@
-## Olá 👋
+# Olá 👋
 
-Portugol:
+### Portugol
 
 [Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para uma competição de desenvolvimento de jogos em linguagem portugol, contendo o tema dengue.
 
-C++:
+### C++
 
 [Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
@@ -20,11 +20,6 @@ C++:
 
 [Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
-
-
-
-
-🌱 Atualmente aprofundando meus conhecimentos em Golang.
 
 
 <!--
