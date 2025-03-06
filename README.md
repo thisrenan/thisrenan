@@ -20,7 +20,9 @@
 
 [Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
+### Golang
 
+[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas em linguagem Go.
 
 <!--
 **thisrenan/thisrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
