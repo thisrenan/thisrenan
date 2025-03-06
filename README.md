@@ -10,7 +10,16 @@ C++:
 
 [Jogo da Velha em variáveis](https://github.com/thisrenan/TicTacToeConsoleCpp): Jogo da velha utilizando apenas variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
+[Jogo da cobrinha (Snake)](https://github.com/thisrenan/SnakeConsoleCpp): Jogo da cobrinha (snake) - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
 [Lista de exercícios 1](https://github.com/thisrenan/FirstLegPracticeCpp): Lista de exercícios de manipulação de variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
+[Lista de exercícios 2](https://github.com/thisrenan/SecondLegPracticeCpp): Lista de exercícios de lações de repetições e comando switch - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
+[Lista de exercícios 3](https://github.com/thisrenan/ThirdLegPracticeCpp): Lista de exercícios de manipulação de vetores - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
+[Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+
 
 
 
