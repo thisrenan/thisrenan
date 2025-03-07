@@ -24,6 +24,8 @@
 
 [Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas em linguagem Go.
 
+[JWT Authentication](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT em Golang e disponibilização em serviço Rest.
+
 <!--
 **thisrenan/thisrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
