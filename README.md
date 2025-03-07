@@ -2,7 +2,7 @@
 
 ### Portugol
 
-[Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para uma competição de desenvolvimento de jogos em linguagem portugol, contendo o tema dengue.
+[Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para competição de desenvolvimento de jogos em linguagem portugol contendo o tema dengue.
 
 ### C++
 
