@@ -6,19 +6,21 @@
 
 ### C++
 
-[Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali, ministrada por Renan.
 
-[Jogo da Velha em variáveis](https://github.com/thisrenan/TicTacToeConsoleCpp): Jogo da velha utilizando apenas variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes.
 
-[Jogo da cobrinha (Snake)](https://github.com/thisrenan/SnakeConsoleCpp): Jogo da cobrinha (snake) - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Jogo da Velha em variáveis](https://github.com/thisrenan/TicTacToeConsoleCpp): Jogo da velha utilizando apenas variáveis.
 
-[Lista de exercícios 1](https://github.com/thisrenan/FirstLegPracticeCpp): Lista de exercícios de manipulação de variáveis - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Jogo da cobrinha (Snake)](https://github.com/thisrenan/SnakeConsoleCpp): Jogo da cobrinha (snake).
 
-[Lista de exercícios 2](https://github.com/thisrenan/SecondLegPracticeCpp): Lista de exercícios de lações de repetições e comando switch - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Lista de exercícios 1](https://github.com/thisrenan/FirstLegPracticeCpp): Lista de exercícios de manipulação de variáveis.
 
-[Lista de exercícios 3](https://github.com/thisrenan/ThirdLegPracticeCpp): Lista de exercícios de manipulação de vetores - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Lista de exercícios 2](https://github.com/thisrenan/SecondLegPracticeCpp): Lista de exercícios de lações de repetições e comando switch.
 
-[Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes - implementado nas aulas de C++ na matéria de "Programação 1" na Universidade do Vale do Itajaí - Univali.
+[Lista de exercícios 3](https://github.com/thisrenan/ThirdLegPracticeCpp): Lista de exercícios de manipulação de vetores.
+
+[Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes.
 
 ### Golang
 
