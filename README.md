@@ -24,15 +24,18 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 ### Golang
 
-[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas em linguagem Go.
+[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
 
-[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT em Golang e disponibilização em serviço Rest.
+[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang
+): Autenticação JWT e disponibilização em serviço Rest.
 
 [ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin com autenticação JWT.
 
+[Envio de emails](https://github.com/thisrenan/EmailNGo): Envio de emails, com boas práticas de testes em go.
+
 ### C#
 
-[Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Xadrez console desenvolvido em c#.
+[Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Xadrez console.
 
 <!--
 **thisrenan/thisrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
