@@ -31,7 +31,7 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 [ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin com autenticação JWT.
 
-[Envio de emails](https://github.com/thisrenan/EmailNGo): Envio de emails, com boas práticas de testes em go.
+[Envio de emails](https://github.com/thisrenan/EmailNGo): Envio de emails, com exemplos de boas práticas de testes em go.
 
 ### C#
 
