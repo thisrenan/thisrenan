@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Renan
 
-Há 12 anos construímos sistemas e os melhorando. Várias tecnologias, padrões arquitetônicos e melhores práticas surgiram ao longo desses anos. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
+Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
 </br>
 
 ### 🎓 Formação
@@ -28,7 +28,8 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database
 [**Univali**](https://univali.br/) • Contract \
 Linguagens & Tecnologias: `C++`, `Arena`
 
-[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>]
+(https://bionexo.com/)
 
 **Software Engineer** \
 [**Bionexo**](https://bionexo.com/) • Full-time \
