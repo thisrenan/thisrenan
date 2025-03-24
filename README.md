@@ -1,6 +1,49 @@
-# Olá,
+![](https://komarev.com/ghpvc/?username=thisrenan&color=006bed)
+
+## Olá, eu sou o Renan
 
 Há 12 anos construímos sistemas e os melhorando. Várias tecnologias, padrões arquitetônicos e melhores práticas surgiram ao longo desses anos. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
+
+### Formação
+
+- 🎓 Bacharel em Ciências da Computação (2018)
+- 🎓 MBA em Gerenciamento de Projetos (2021)
+- 🎓 MBA em Computação em Nuvem (2023)
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="74px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
+
+**Principal Software Engineer - Product Manager** \
+[**Acanto**](https://www.acantolabs.com/) • Full-time \
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
+
+
+[<img align="left" height="74px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
+
+**Professor Universitário** \
+[**Univali**](https://univali.br/) • Contract \
+Linguagens & Tecnologias: `C++`, `Arena`
+
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
+
+**Software Engineer** \
+[**Bionexo**](https://bionexo.com/) • Full-time \
+Linguagens & Tecnologias: `.NET`, `ORM`, `Tdd`, `RPA`, `Microservices`, `Azure Cloud`
+
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
+
+**Software Developer** \
+[**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
+Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+### Projetos
+
+Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### Portugol
 
@@ -26,11 +69,9 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 ### Golang
 
-[Gerador de senhas]
-(https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
+[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
 
-[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang
-): Autenticação JWT e disponibilização em serviço Rest.
+[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT e disponibilização em serviço Rest.
 
 [ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin com autenticação JWT.
 
@@ -39,19 +80,3 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 ### C#
 
 [Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Xadrez console.
-
-<!--
-**thisrenan/thisrenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
