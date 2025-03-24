@@ -50,6 +50,7 @@ International Journal of Advanced Engineering Research and Science (IJAERS) \
 [A Method to Evaluate Virtual Opponent Based on IA for an Accessible  educational Digital Game: a Case of Study with Dinobase](https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/)
 ISSN: 2349-6495(P) | 2456-1908(O)
 </br>
+
 ### 📌 Projetos
 
 Aqui você irá encontrar alguns dos projetos que atuei/participei.
