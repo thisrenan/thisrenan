@@ -58,6 +58,10 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para competição de desenvolvimento de jogos em linguagem portugol contendo o tema dengue.
 
+### Unity
+
+[Dinobase 2](https://github.com/thisrenan/Dinobase2Unity): Jogo implementado para conclusão dos testes de IA aplicada a jogos didáticos no TTC 2 da Universidade do Vale do Itajaí - Univali, para o Bacharelado em Ciências da Computação.
+
 ### C++
 
 Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali, ministrada por Renan.
