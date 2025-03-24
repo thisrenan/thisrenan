@@ -21,15 +21,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
 
-
 [<img align="left" height="74px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
 
 **Professor Universitário** \
 [**Univali**](https://univali.br/) • Contract \
 Linguagens & Tecnologias: `C++`, `Arena`
 
-[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>]
-(https://bionexo.com/)
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
 
 **Software Engineer** \
 [**Bionexo**](https://bionexo.com/) • Full-time \
