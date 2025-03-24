@@ -3,14 +3,15 @@
 ## Olá, eu sou o Renan
 
 Há 12 anos construímos sistemas e os melhorando. Várias tecnologias, padrões arquitetônicos e melhores práticas surgiram ao longo desses anos. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
+</br>
 
-### Formação
+### 🎓 Formação
 
-- 🎓 Bacharel em Ciências da Computação (2018)
-- 🎓 MBA em Gerenciamento de Projetos (2021)
-- 🎓 MBA em Computação em Nuvem (2023)
+- Bacharel em Ciências da Computação (2018)
+- MBA em Gerenciamento de Projetos (2021)
+- MBA em Computação em Nuvem (2023)
 
-### Experiência de trabalho
+### 💻 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -40,8 +41,16 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `Tdd`, `RPA`, `Microservices`, `Azure C
 Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+</br>
+### 📑 Publicações em revistas científicas
 
-### Projetos
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/143a8124-205f-475b-87e3-66ba747615db"/>](https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/)
+
+International Journal of Advanced Engineering Research and Science (IJAERS) \
+[A Method to Evaluate Virtual Opponent Based on IA for an Accessible  educational Digital Game: a Case of Study with Dinobase](https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/)
+ISSN: 2349-6495(P) | 2456-1908(O)
+</br>
+### 📌 Projetos
 
 Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
