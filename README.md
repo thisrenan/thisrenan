@@ -1,4 +1,6 @@
-# Olá 👋
+# Olá,
+
+Há 12 anos construímos sistemas e os melhorando. Várias tecnologias, padrões arquitetônicos e melhores práticas surgiram ao longo desses anos. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
 
 ### Portugol
 
@@ -24,7 +26,8 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 ### Golang
 
-[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
+[Gerador de senhas]
+(https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
 
 [Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang
 ): Autenticação JWT e disponibilização em serviço Rest.
