@@ -93,3 +93,5 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 ### C#
 
 [Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Xadrez console.
+
+[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
