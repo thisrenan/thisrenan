@@ -46,10 +46,6 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 [**Modallport Sistemas**](https://modallport.com.br/) • Full-time \
 Linguagens e Tecnologias: `Delphi`, `SQL Server`
 
-
-
-
-
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </br>
 ### 📑 Publicações em revistas científicas
@@ -65,13 +61,25 @@ ISSN: 2349-6495(P) | 2456-1908(O)
 
 Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
-### Portugol
 
-[Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para competição de desenvolvimento de jogos em linguagem portugol contendo o tema dengue.
 
-### Unity
+### C#
 
-[Dinobase 2](https://github.com/thisrenan/Dinobase2Unity): Jogo implementado para conclusão dos testes de IA aplicada a jogos didáticos no TTC 2 da Universidade do Vale do Itajaí - Univali, para o Bacharelado em Ciências da Computação.
+[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
+
+[Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Jogo de Xadrez via console.
+
+
+### Golang
+
+[SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
+
+[ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin para testar grants na autenticação com JWT.
+
+[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT e disponibilização em serviço Rest.
+
+[SOA Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): SOA de gerador de senhas.
+
 
 ### C++
 
@@ -91,18 +99,12 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 [Lista de exercícios 4](https://github.com/thisrenan/FourthLegPracticeCpp): Lista de exercícios de manipulação de matrizes.
 
-### Golang
 
-[Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): Gerador de senhas.
+### Unity
 
-[Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT e disponibilização em serviço Rest.
+[Dinobase 2](https://github.com/thisrenan/Dinobase2Unity): Jogo implementado para conclusão dos testes de IA aplicada a jogos didáticos no TTC 2 da Universidade do Vale do Itajaí - Univali, para o Bacharelado em Ciências da Computação.
 
-[ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin com autenticação JWT.
 
-[SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
+### Portugol
 
-### C#
-
-[Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Xadrez console.
-
-[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
+[Ki-Dengo-Pepo](https://github.com/thisrenan/Ki-dengu-pepo): Jogo implementado para competição de desenvolvimento de jogos em linguagem portugol contendo o tema dengue.
