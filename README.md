@@ -15,29 +15,39 @@ Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar algu
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="74px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 
-**Principal Software Engineer - Product Manager** \
+**Engenheiro de Software Sênior / Gerente de Produtos** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
 
-[<img align="left" height="74px" width="94px" alt="Rocketseat" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
 
 **Professor Universitário** \
 [**Univali**](https://univali.br/) • Contract \
 Linguagens & Tecnologias: `C++`, `Arena`
 
-[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
 
-**Software Engineer** \
+**Engenheiro de Software Sênior** \
 [**Bionexo**](https://bionexo.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `Tdd`, `RPA`, `Microservices`, `Azure Cloud`
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure Cloud`
 
-[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
 
-**Software Developer** \
+**Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
+
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
+
+**Desenvolvedor de Software Junior** \
+[**Modallport Sistemas**](https://modallport.com.br/) • Full-time \
+Linguagens e Tecnologias: `Delphi`, `SQL Server`
+
+
+
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </br>
@@ -88,7 +98,7 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 [ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin com autenticação JWT.
 
-[Envio de emails](https://github.com/thisrenan/EmailNGo): Envio de emails, com exemplos de boas práticas de testes em go.
+[SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
 
 ### C#
 
