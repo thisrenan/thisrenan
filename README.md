@@ -17,11 +17,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 
-**Engenheiro de Software Sênior / Gerente de Produtos** \
+**Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
 
-[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
+[<img align="left" 
+height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
 
 **Professor Universitário** \
 [**Univali**](https://univali.br/) • Contract \
