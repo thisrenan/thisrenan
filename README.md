@@ -67,6 +67,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
+[Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
+
 [Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Jogo de Xadrez via console.
 
 
