@@ -44,7 +44,8 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 **Desenvolvedor de Software Junior** \
 [**Modallport Sistemas**](https://modallport.com.br/) • Full-time \
-Linguagens e Tecnologias: `Delphi`, `SQL Server`
+Linguagens e Tecnologias: `Delphi`
+, `SQL Server`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </br>
@@ -67,7 +68,9 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
-[SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): Utilização do SwaggerUI para visualização dos serviços no .NET 9.
+[SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): Utilização do SwaggerUI para visualização e documentação de API no .NET 9.
+
+[RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
 
 [Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
 
