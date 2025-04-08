@@ -72,6 +72,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
 
+[nSwag](https://github.com/thisrenan/nSwagDotNet9): Utilização do nSwag para visualização e documentação de API no .NET9 com aparencia similar ao Swagger e ReDoc.
+
 [Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
 
 [Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Jogo de Xadrez via console.
