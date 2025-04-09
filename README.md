@@ -34,7 +34,8 @@ Linguagens & Tecnologias: `C++`, `Arena`
 [**Bionexo**](https://bionexo.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure Cloud`
 
-[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
+[<img align="left" height
+="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
 
 **Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
@@ -68,13 +69,13 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
 
-[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
+[RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
 
 [SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): Utilização do SwaggerUI para visualização e documentação de API no .NET 9.
 
-[RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
-
 [nSwag](https://github.com/thisrenan/nSwagDotNet9): Utilização do nSwag para visualização e documentação de API no .NET9 com aparencia similar ao Swagger e ReDoc.
+
+[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
 [Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
 
