@@ -66,6 +66,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### C#
 
+[Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
+
 [OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
 [SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): Utilização do SwaggerUI para visualização e documentação de API no .NET 9.
