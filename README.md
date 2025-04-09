@@ -30,7 +30,8 @@ Linguagens & Tecnologias: `C++`, `Arena`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
 
-**Engenheiro de Software Sênior** \
+**Engenheiro de Software Sênior**
+ \
 [**Bionexo**](https://bionexo.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure Cloud`
 
@@ -86,7 +87,7 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
 
-[ToDo Web com gin autenticação JWT](https://github.com/thisrenan/jwt-auth-todo-gin-golang): ToDo em framework web gin para testar grants na autenticação com JWT.
+[To Do Web](https://github.com/thisrenan/jwt-auth-todo-gin-golang): To Do em framework web gin para testar grants na autenticação com JWT.
 
 [Autenticação JWT](https://github.com/thisrenan/jwt-auth-golang): Autenticação JWT e disponibilização em serviço Rest.
 
