@@ -68,6 +68,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### C#
 
+[MultiTenant](https://github.com/thisrenan/MultiTenantDotNet9): Exemplo de utilização MultiTenant em .NET 9.
+
 [Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
 
 [RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
