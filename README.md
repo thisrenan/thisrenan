@@ -40,7 +40,8 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure C
 
 **Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
+Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `
+SQL Server`, `Delphi`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
 
@@ -60,11 +61,19 @@ International Journal of Advanced Engineering Research and Science (IJAERS) \
 ISSN: 2349-6495(P) | 2456-1908(O)
 </br>
 
+
+### 👶 Novo no mundo tech? Comece por aqui
+
+[Dicionário Tech](https://github.com/thisrenan/TechDictionary): Dicionário para descomplicar as siglas e termos tech.
+
+[Comandos Git](https://github.com/iuricode/padroes-de-commits): By *Iuri Silva*; Comandos do Git.
+
+[Padrões de commit](https://github.com/iuricode/padroes-de-commits): By *Iuri Silva*; Convenção simples para padronizar mensagens de commit.
+
+
 ### 📌 Projetos
 
 Aqui você irá encontrar alguns dos projetos que atuei/participei.
-
-
 
 ### C#
 
