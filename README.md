@@ -108,7 +108,7 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### C++
 
-Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali, ministrada por Renan.
+Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
 [Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes.
 
@@ -127,7 +127,7 @@ Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Unive
 
 ### Unity
 
-[Dinobase 2](https://github.com/thisrenan/Dinobase2Unity): Jogo implementado para conclusão dos testes de IA aplicada a jogos didáticos no TTC 2 da Universidade do Vale do Itajaí - Univali, para o Bacharelado em Ciências da Computação.
+[Dinobase 2](https://github.com/thisrenan/Dinobase2Unity): Jogo implementado para conclusão dos testes de agentes IA aplicada a jogos didáticos no TTC 2 da Universidade do Vale do Itajaí - Univali, para o Bacharelado em Ciências da Computação.
 
 
 ### Portugol
