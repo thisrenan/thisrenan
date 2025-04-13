@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 
-**Engenheiro de Software Sênior** \
+**Co-Founder / Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
 
@@ -36,7 +36,8 @@ Linguagens & Tecnologias: `C++`, `Arena`
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure Cloud`
 
 [<img align="left" height
-="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
+="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/
+)
 
 **Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
