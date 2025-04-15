@@ -15,6 +15,12 @@ Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar algu
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="74px" width="94px" src="https://attachments.gupy.io/production/companies/541/career/1974/images/2020-08-27_18-13_logo.jpg"/>](https://havanlabs.gupy.io/)
+
+**Engenheiro de Software Sênior** \
+[**Havan Labs**](https://havanlabs.gupy.io/) • Full-time \
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `SQL Server`, `Oracle`, `Azure Cloud`
+
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 
 **Co-Founder / Engenheiro de Software Sênior** \
@@ -55,7 +61,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/)
 </br>
 ### 📑 Publicações em revistas científicas
 
-[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/143a8124-205f-475b-87e3-66ba747615db"/>](https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/)
+[<img align="left" height="74px" width="94px" alt="Nubank" src="https://github.com/user-attachments/assets/143a8124-205f-475b-87e3-66ba747615db"/>]
+(https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/)
 
 International Journal of Advanced Engineering Research and Science (IJAERS) \
 [A Method to Evaluate Virtual Opponent Based on IA for an Accessible  educational Digital Game: a Case of Study with Dinobase](https://ijaers.com/detail/a-method-to-evaluate-virtual-opponent-based-on-ia-for-an-accessible-educational-digital-game-a-case-of-study-with-dinobase/) \
