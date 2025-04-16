@@ -25,7 +25,7 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `SQL Server`, `
 
 **Co-Founder / Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`, `Multitenancy`, `Playwright`
 
 [<img align="left" 
 height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
@@ -47,8 +47,7 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure C
 
 **Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `
-SQL Server`, `Delphi`
+Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
 
