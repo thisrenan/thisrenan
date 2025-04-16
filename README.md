@@ -25,7 +25,7 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `SQL Server`, `
 
 **Co-Founder / Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `Multi Database`, `AWS Cloud`, `Multitenancy`, `Playwright`
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Multi Database`, `AWS Cloud`, `Multitenancy`, `Playwright`, `Terraform`
 
 [<img align="left" 
 height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
@@ -39,7 +39,7 @@ Linguagens & Tecnologias: `C++`, `Arena`
 **Engenheiro de Software Sênior**
  \
 [**Bionexo**](https://bionexo.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Azure Cloud`
+Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Jenkins`, `Azure Cloud`
 
 [<img align="left" height
 ="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/
