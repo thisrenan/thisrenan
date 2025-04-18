@@ -21,7 +21,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Havan Labs**](https://havanlabs.gupy.io/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `SQL Server`, `Oracle`, `Azure Cloud`
 
-[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
+[<img align="left" 
+height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 
 **Co-Founder / Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
@@ -88,7 +89,7 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
-**Privado**[RPA Armadores](https://github.com/thisrenan/hubrpa-playwright-shipowner): Automação para busca de informação nos sites dos maiores armadores do mundo.
+**Privado** [RPA Armadores](https://github.com/thisrenan/hubrpa-playwright-shipowner): Automação para busca de informação nos sites dos maiores armadores do mundo.
 
 [Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
 
