@@ -116,6 +116,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [SOA Gerador de senhas](https://github.com/thisrenan/PasswordGenerator): SOA de gerador de senhas.
 
+[Go Practice](https://github.com/thisrenan/GoPractice): Praticando em go: arrays, slices, defer, panic, sync methods e channels.
+
 
 ### C++
 
