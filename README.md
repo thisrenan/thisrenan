@@ -89,6 +89,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
+**Privado**[RPA Armadores](https://github.com/thisrenan/hubrpa-playwright-shipowner): Automação para busca de informação nos sites dos maiores armadores do mundo.
+
 [Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
 
 [RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
