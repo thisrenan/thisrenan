@@ -46,7 +46,8 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Jenkins
 )
 
 **Desenvolvedor de Software Pleno** \
-[**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
+[**
+DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
@@ -85,6 +86,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 ### C#
 
 [MultiTenant](https://github.com/thisrenan/MultiTenantDotNet9): Exemplo de arquitetura MultiTenant em .NET 9.
+
+[Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
 [Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
 
