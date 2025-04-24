@@ -47,8 +47,7 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Jenkins
 )
 
 **Desenvolvedor de Software Pleno** \
-[**
-DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
+[**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
