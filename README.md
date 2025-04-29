@@ -106,6 +106,8 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### Golang
 
+**Privado** [Tracking Service](https://github.com/thisrenan/WblmTrackingService): SOA controle dos serviços de tracking.
+
 [SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
 
 [To Do Web](https://github.com/thisrenan/jwt-auth-todo-gin-golang): To Do em framework web gin para testar grants na autenticação com JWT.
