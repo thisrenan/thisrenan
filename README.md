@@ -54,8 +54,7 @@ Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 **Desenvolvedor de Software Junior** \
 [**Modallport Sistemas**](https://modallport.com.br/) • Full-time \
-Linguagens e Tecnologias: `Delphi`
-, `SQL Server`
+Linguagens e Tecnologias: `Delphi`, `SQL Server`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-augusto/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </br>
