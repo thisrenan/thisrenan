@@ -15,7 +15,8 @@ Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar algu
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="74px" width="94px" src="https://attachments.gupy.io/production/companies/541/career/1974/images/2020-08-27_18-13_logo.jpg"/>](https://havanlabs.gupy.io/)
+[<img align="left" height="74px" width="94px" src="https://attachments.gupy.io/production/companies/541/career/1974/images/2020-08-27_18-13_logo.jpg"/>](
+https://havanlabs.gupy.io/)
 
 **Engenheiro de Software Sênior** \
 [**Havan Labs**](https://havanlabs.gupy.io/) • Full-time \
@@ -106,7 +107,7 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### Golang
 
-**Privado** [Tracking Service](https://github.com/thisrenan/WblmTrackingService): SOA controle dos serviços de tracking.
+**Privado** [Tracking Service](https://github.com/thisrenan/WblmTrackingService): SOA controle de clientes e de serviços de tracking dos maiores armadores do mundo.
 
 [SOA Marketing](https://github.com/thisrenan/EmailNGo): SOA Marketing com exemplos de boas práticas de testes em Go, com migrations e ORM com gorm, autenticação com keycloak, endpoints e rotas com chi.
 
