@@ -15,44 +15,37 @@ Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar algu
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="74px" width="94px" src="https://attachments.gupy.io/production/companies/541/career/1974/images/2020-08-27_18-13_logo.jpg"/>](
-https://havanlabs.gupy.io/)
-
+[<img align="left" height="74px" width="94px" src="https://attachments.gupy.io/production/companies/541/career/1974/images/2020-08-27_18-13_logo.jpg"/>](https://havanlabs.gupy.io/)
 **Engenheiro de Software Sênior** \
 [**Havan Labs**](https://havanlabs.gupy.io/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `Microservices`, `SQL Server`, `Oracle`, `Azure Cloud`
+Linguagens & Tecnologias: `.NET`, `ReactJs`, `ORM`, `K8s`, `Rancher`, `Microservices`, `SQL Server`, `Azure Cloud`
 
-[<img align="left" 
-height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/853d1732-c4af-4cb7-b202-db8a60af8f7f"/>](https://webleme.com/)
+**Co-Founder \ Engenheiro de Software Sênior** \
+[**Webleme**](https://webleme.com/) • Part-time \
+Linguagens & Tecnologias: `.NET`, `Golang`, `ReactJs`, `ORM`, `Microservices`, `RPA`, `Playwright`, `Multitenancy`
 
-**Co-Founder / Engenheiro de Software Sênior** \
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
+**Co-Founder \ Engenheiro de Software Sênior** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
-Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Multi Database`, `AWS Cloud`, `Multitenancy`, `Playwright`, `Terraform`
+Linguagens & Tecnologias: `.NET`, `ORM`, `Microservices`, `Multi Database`, `AWS Cloud`, `Terraform`
 
-[<img align="left" 
-height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
-
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/d7c9798e-21ba-44d0-ad59-f4325cc686fd"/>](https://univali.br/)
 **Professor Universitário** \
 [**Univali**](https://univali.br/) • Contract \
 Linguagens & Tecnologias: `C++`, `Arena`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/cc459c95-51e6-4338-867d-8907d394b0b3"/>](https://bionexo.com/)
-
-**Engenheiro de Software Sênior**
- \
+**Engenheiro de Software Sênior** \
 [**Bionexo**](https://bionexo.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `TDD`, `RPA`, `Microservices`, `Jenkins`, `Azure Cloud`
 
-[<img align="left" height
-="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/
-)
-
+[<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/08f107cb-7d74-4b02-ad5f-8d92df2e215a"/>](https://dclogisticsbrasil.com/)
 **Desenvolvedor de Software Pleno** \
 [**DC Logistics Brasil**](https://dclogisticsbrasil.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `RPA`, `SQL Server`, `Delphi`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9009b3d0-5b44-4506-abb2-dfdf4ce1b5cb"/>](https://modallport.com.br/)
-
 **Desenvolvedor de Software Junior** \
 [**Modallport Sistemas**](https://modallport.com.br/) • Full-time \
 Linguagens e Tecnologias: `Delphi`, `SQL Server`
