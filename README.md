@@ -77,21 +77,23 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### C#
 
-[MultiTenant](https://github.com/thisrenan/MultiTenantDotNet9): Exemplo de arquitetura MultiTenant em .NET 9.
+[MultiTenant](https://github.com/thisrenan/MultiTenantDotNet9): Arquitetura MultiTenant em .NET 9.
+
+[RateLimiter](https://github.com/thisrenan/RateLimiterDotNet): Limitação de requests em endpoints .NET 9.
 
 [Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
 **Privado** [RPA Armadores](https://github.com/thisrenan/hubrpa-playwright-shipowner): Automação para busca de informação nos sites dos maiores armadores do mundo.
 
-[Scalar](https://github.com/thisrenan/ScalarDotNet9): Utilização do Scalar para visualização e documentação de API no .NET 9.
+[Scalar](https://github.com/thisrenan/ScalarDotNet9): Scalar para visualização e documentação de API no .NET 9.
 
-[RedDoc](https://github.com/thisrenan/ReDocDotNet9): Utilização do ReDoc para visualização e documentação de API no .NET 9.
+[RedDoc](https://github.com/thisrenan/ReDocDotNet9): ReDoc para visualização e documentação de API no .NET 9.
 
-[SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): Utilização do SwaggerUI para visualização e documentação de API no .NET 9.
+[SwaggerUI](https://github.com/thisrenan/SwaggerUIDotNet9): SwaggerUI para visualização e documentação de API no .NET 9.
 
-[nSwag](https://github.com/thisrenan/nSwagDotNet9): Utilização do nSwag para visualização e documentação de API no .NET9 com aparencia similar ao Swagger e ReDoc.
+[nSwag](https://github.com/thisrenan/nSwagDotNet9): nSwag para visualização e documentação de API no .NET9 com aparencia similar ao Swagger e ReDoc.
 
-[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): Utilização do OpenAPI para visualização do json para descoberta de serviços no .NET 9.
+[OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
 [Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
 
