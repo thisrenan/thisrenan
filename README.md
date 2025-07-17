@@ -23,7 +23,7 @@ Linguagens & Tecnologias: `.NET`, `ReactJs`, `ORM`, `K8s`, `Rancher`, `Microserv
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/853d1732-c4af-4cb7-b202-db8a60af8f7f"/>](https://webleme.com/)
 **Co-Founder \ Engenheiro de Software Sênior** \
 [**Webleme**](https://webleme.com/) • Part-time \
-Linguagens & Tecnologias: `.NET`, `Golang`, `ReactJs`, `ORM`, `Microservices`, `RPA`, `Playwright`, `Multitenancy`
+Linguagens & Tecnologias: `.NET`, `Golang`, `ORM`, `Microservices`, `Playwright`, `Multitenancy`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
 **Co-Founder \ Engenheiro de Software Sênior** \
