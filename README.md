@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Renan
 
-Há 12 anos construindo sistemas e os melhorando. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
+Há 13 anos construindo sistemas e os melhorando. Aqui você irá encontrar alguns dos projetos que atuei/participei ao longo desse período.
 </br>
 
 ### 🎓 Formação
