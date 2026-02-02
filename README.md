@@ -65,7 +65,7 @@ ISSN: 2349-6495(P) | 2456-1908(O)
 
 [Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
-[HalfLifeDog](https://github.com/thisrenan/log-viewer): Facilitador de visualização de logs.
+[HalfLifeDog](https://github.com/thisrenan/log-viewer): Facilitador de visualização de logs. (3º lugar na competição Havan Labs + Lovable – Vibe Coding 🚀)
 
 
 ### 👶 Novo no mundo tech? Comece por aqui
