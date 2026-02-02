@@ -61,6 +61,12 @@ International Journal of Advanced Engineering Research and Science (IJAERS) \
 ISSN: 2349-6495(P) | 2456-1908(O)
 </br>
 
+### Eventos e Hackathon's
+
+[Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
+
+[HalfLifeDog](https://github.com/thisrenan/log-viewer): Facilitador de visualização de logs.
+
 
 ### 👶 Novo no mundo tech? Comece por aqui
 
@@ -69,7 +75,6 @@ ISSN: 2349-6495(P) | 2456-1908(O)
 [Comandos Git](https://github.com/iuricode/padroes-de-commits): By *Iuri Silva*; Comandos do Git.
 
 [Padrões de commit](https://github.com/iuricode/padroes-de-commits): By *Iuri Silva*; Convenção simples para padronizar mensagens de commit.
-
 
 ### 📌 Projetos
 
@@ -80,8 +85,6 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 [MultiTenant](https://github.com/thisrenan/MultiTenantDotNet9): Arquitetura MultiTenant em .NET 9.
 
 [RateLimiter](https://github.com/thisrenan/RateLimiterDotNet): Limitação de requests em endpoints .NET 9.
-
-[Rainbow](https://github.com/thisrenan/Rainbow-Hackathon): Interface de comunicação da sociedade com os monitores da prefeitura.
 
 **Privado** [RPA Armadores](https://github.com/thisrenan/hubrpa-playwright-shipowner): Automação para busca de informação nos sites dos maiores armadores do mundo.
 
