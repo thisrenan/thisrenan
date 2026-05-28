@@ -93,8 +93,6 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 [OpenAPI - Json](https://github.com/thisrenan/StandardApiDotNet): OpenAPI para visualização do json para descoberta de serviços no .NET 9.
 
-[Leet Code Problems](https://github.com/thisrenan/LeetCodeProblems): Soluções dos problemas LeetCode para praticar em C#.
-
 [Xadrez](https://github.com/thisrenan/ChessConsoleCSharp): Jogo de Xadrez via console.
 
 
@@ -115,7 +113,7 @@ Aqui você irá encontrar alguns dos projetos que atuei/participei.
 
 ### C++
 
-Projetos e exercícios das aulas de C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali.
+Projetos e exercícios das aulas das aulas que lecionei em C++ na disciplina "Programação 1" na Universidade do Vale do Itajaí - Univali.
 
 [Jogo da Velha em Matrizes](https://github.com/thisrenan/TicTacToeMatrixConsoleCpp): Jogo da velha utilizando matrizes.
 
