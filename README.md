@@ -21,7 +21,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `.NET`, `ReactJs`, `ORM`, `K8s`, `Rancher`, `Microservices`, `SQL Server`, `Azure Cloud`
 
 [<img align="left" height="74px" width="94px" src="https://github.com/user-attachments/assets/9b570818-1fb5-4d6f-89ad-2488d3894e1b"/>](https://www.acantolabs.com/)
-**Co-Founder \ Engenheiro de Software Sênior** \
+**Sócio-Fundador e Head de Engenharia** \
 [**Acanto**](https://www.acantolabs.com/) • Full-time \
 Linguagens & Tecnologias: `.NET`, `ORM`, `Microservices`, `Multi Database`, `AWS Cloud`, `Terraform`
 
